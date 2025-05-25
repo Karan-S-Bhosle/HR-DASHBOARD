@@ -1,3 +1,5 @@
+https://github.com/Karan-S-Bhosle/HR-DASHBOARD/blob/main/HR%20DASHBOARD.png
+
 # HR-DASHBOARD
 💼 HR Analytics Dashboard
 A comprehensive HR Dashboard that visualizes key Human Resource metrics and provides actionable insights to support data-driven decision-making. Built to monitor workforce trends such as employee attrition, salary distribution, gender and marital demographics, recruitment sources, and more.
