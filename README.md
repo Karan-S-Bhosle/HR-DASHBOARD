@@ -1,4 +1,4 @@
-https://github.com/Karan-S-Bhosle/HR-DASHBOARD/blob/main/HR%20DASHBOARD.png
+![Dashboard Preview].(https://github.com/Karan-S-Bhosle/HR-DASHBOARD/blob/main/HR%20DASHBOARD.png)
 
 # HR-DASHBOARD
 💼 HR Analytics Dashboard
